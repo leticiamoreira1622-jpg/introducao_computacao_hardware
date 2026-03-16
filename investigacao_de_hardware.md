@@ -44,12 +44,15 @@ Passo 3: Submissão
 
  # Investigação de Hardware: Calculadora de Babbage
  ## História do Artefato
-   A Máquina Analítica, idealizada por Charles Babbage com o objetivo de automatizar o cálculo exaustivo de tabelas matemáticas e astronômicas para a eliminação de erros humanos, descreveu-se primariamente no ano de 1837. 
-   A invenção supracitada é reconhecida como o primeiro computador mecânico de uso geral e um grande marco para a história da computação. 
-   Nesse sentido, uma de suas principais contribuições para o desenvolvimento da computação moderna é a separação entre a unidade de processamento e a memória, conceito utilizado amplamente pela computação atual. 
+A Máquina Analítica, idealizada por Charles Babbage com o objetivo de automatizar o cálculo exaustivo de tabelas matemáticas e astronômicas para a eliminação de erros humanos, descreveu-se primariamente no ano de 1837. A invenção supracitada é reconhecida como o primeiro computador mecânico de uso geral e um grande marco para a história da computação.  
+
+   Nesse sentido, uma de suas principais contribuições para o desenvolvimento da computação moderna é a separação entre a unidade de processamento e a memória, conceito utilizado amplamente pela computação atual.  
+   
    Além disso, a máquina contava com cartões perfurados para a inserção de instruções e dados. 
-   Ademais, a presença de Ada Lovelace, popularmente reconhecida como a primeira programadora da história, é indispensável para a história desse artefato, uma vez que ela é a autora do primeiro algoritmo para ser processado pela máquina e a visionária que preveu que a máquina conseguiria manipular quaisquer tipos de símbolos e transcender o cálculo numérico.
-   Entretanto, o projeto de Babbage não foi terminado em vida por Babbage, consequência da retirada do financiamento governamental no ano de 1834 e à incapacidade da engenharia naquela época na fabricação de componentes com a tolerância e a precisão prevista como exigência no planejamento em questão.
+   Ademais, a presença de Ada Lovelace, popularmente reconhecida como a primeira programadora da história, é indispensável para a história desse artefato, uma vez que ela é a autora do primeiro algoritmo para ser processado pela máquina e a visionária que preveu que a máquina conseguiria manipular quaisquer tipos de símbolos e transcender o cálculo numérico.  
+   
+   Entretanto, o projeto de Babbage não foi terminado em vida por Babbage, consequência da retirada do financiamento governamental no ano de 1834 e à incapacidade da engenharia naquela época na fabricação de componentes com a tolerância e a precisão prevista como exigência no planejamento em questão.  
+   
 
 ## Tabela comparativa 
 | Atualmente  | Antigamente |
