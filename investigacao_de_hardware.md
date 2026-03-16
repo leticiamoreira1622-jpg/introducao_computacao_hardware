@@ -62,7 +62,7 @@ Passo 3: Submissão
 [Link](https://museudocomputador.org.br/linha-do-tempo/#pre)
 ![Image](file:///C:/Users/Leticia/Downloads/images.jpg)
 
-##Bibliografia 
+### Bibliografia 
 Aqui estão as referências dos materiais utilizados, organizadas para compor sua bibliografia, com as devidas citações sobre a natureza de cada conteúdo:
 
 ### **Bibliografia das Fontes Consultadas**
