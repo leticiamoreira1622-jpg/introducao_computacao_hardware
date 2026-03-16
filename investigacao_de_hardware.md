@@ -58,7 +58,7 @@ Entretanto, o projeto de Babbage não foi terminado em vida por Babbage, consequ
 | Interface de entrada: cartões perfurados inspirado no tear de Jacqaurd categorizados em cartões de operação, variáveis ou numéricos | Teclado, telas sensíveis ao toque, microfones, mouse e sensores eletrônicos |
 | Interface de saída: impressora mecânica, traçador de curvas (plotter), perfurador de cartões e sino para sinalização sonora | Monitoramentos de alta resolução, sistema musical, impressoras de qualquer tipo e motores de vibração. |
 ## Link
-[Link](https://museudocomputador.org.br/linha-do-tempo/#pre)
+[Museu do computador](https://museudocomputador.org.br/linha-do-tempo/#pre)
 
 ![Image](https://mentalidadesmatematicas.org.br/wp-content/uploads/2022/03/2016-01-13-6340XUE3699-2.jpg)
 ![Image2](https://museudocomputador.org.br/wp-content/uploads/2025/10/charlesfinal.png)
