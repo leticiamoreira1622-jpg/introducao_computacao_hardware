@@ -72,9 +72,9 @@ Aqui estão as referências dos materiais utilizados, organizadas para compor su
 *   **COSTA, Eli Banks Liberato da.** "Charles Babbage (1791-1871) e a mecanização do cálculo: das engrenagens à 'máquina de pensar'". Tese de **Doutorado em História da Ciência** pela Pontifícia Universidade Católica de São Paulo (**PUC-SP**), defendida em 2012 sob orientação da Profa. Dra. Maria Helena Roxo Beltran. A obra analisa minuciosamente a vida de Babbage, a **Notação Mecânica** por ele criada e o conceito pioneiro de **diálogo homem-máquina**.
 *   **MENTALIDADES MATEMÁTICAS.** "A Máquina Analítica e a pré-história dos computadores". Publicado originalmente em 28 de julho de 2020 e atualizado em 22 de dezembro de 2023. O texto explora a trajetória das ferramentas de cálculo, mencionando desde o ábaco e os Bastões de Napier até os avanços da **Máquina Analítica** e do supercomputador **Summit**.
 *   **WIKIPÉDIA.** "Máquina analítica – Wikipédia, a enciclopédia livre". Verbete com revisão atualizada até 13 de outubro de 2025. Fornece detalhes técnicos sobre o design **Turing-completo** da máquina, o conjunto de instruções, a influência na ciência da computação moderna e referências sobre as tentativas de construção física do projeto.
-*   **WIKI COMPUTAÇÃO.** "c:charles_babbage [Wiki Computação]". Documento de caráter biográfico e acadêmico. Destaca a formação de Babbage no **Trinity College**, sua atuação na **Sociedade Analítica** e as honrarias recebidas, como a medalha de ouro da **Royal Astronomical Society** (RAS).
-[Link](https://mentalidadesmatematicas.org.br/maquina-analitica/)
-[Link](https://www.alura.com.br/artigos/ada-lovelace-charles-babbage-eniac-breve-historia-computacao#:~:text=Ada%20Lovelace%2C%20Charles%20Babbage%20e,breve%20hist%C3%B3ria%20da%20computa%C3%A7%C3%A3o%20%7C%20Alura)
-[Link](https://pt.wikipedia.org/wiki/M%C3%A1quina_anal%C3%ADtica)
-[Link](https://wiki.inf.ufpr.br/computacao/doku.php?id=c:charles_babbage#:~:text=Ele%20foi%20eleito%20membro%20da%20Royal%20Society,que%20era%20capaz%20de%20fazer%20c%C3%A1lculos%20polinomiais.)
+*   **WIKI COMPUTAÇÃO.** "c:charles_babbage [Wiki Computação]". Documento de caráter biográfico e acadêmico. Destaca a formação de Babbage no **Trinity College**, sua atuação na **Sociedade Analítica** e as honrarias recebidas, como a medalha de ouro da **Royal Astronomical Society** (RAS).<br>
+[Metalidade](https://mentalidadesmatematicas.org.br/maquina-analitica/) <br>
+[Alura](https://www.alura.com.br/artigos/ada-lovelace-charles-babbage-eniac-breve-historia-computacao#:~:text=Ada%20Lovelace%2C%20Charles%20Babbage%20e,breve%20hist%C3%B3ria%20da%20computa%C3%A7%C3%A3o%20%7C%20Alura) <br>
+[Wikipedia](https://pt.wikipedia.org/wiki/M%C3%A1quina_anal%C3%ADtica) <br>
+[wikiufpr](https://wiki.inf.ufpr.br/computacao/doku.php?id=c:charles_babbage#:~:text=Ele%20foi%20eleito%20membro%20da%20Royal%20Society,que%20era%20capaz%20de%20fazer%20c%C3%A1lculos%20polinomiais.) <br>
 
