@@ -62,6 +62,7 @@ Passo 3: Submissão
 [Link](https://museudocomputador.org.br/linha-do-tempo/#pre)
 
 ![Image](https://mentalidadesmatematicas.org.br/wp-content/uploads/2022/03/2016-01-13-6340XUE3699-2.jpg)
+![Image2](https://museudocomputador.org.br/wp-content/uploads/2025/10/charlesfinal.png)
 
 ### Bibliografia 
 Aqui estão as referências dos materiais utilizados, organizadas para compor sua bibliografia, com as devidas citações sobre a natureza de cada conteúdo:
