@@ -60,6 +60,7 @@ Passo 3: Submissão
 | Interface de saída: impressora mecânica, traçador de curvas (plotter), perfurador de cartões e sino para sinalização sonora | Monitoramentos de alta resolução, sistema musical, impressoras de qualquer tipo e motores de vibração. |
 ## Link
 [Link](https://museudocomputador.org.br/linha-do-tempo/#pre)
+
 ![Image](file:///C:/Users/Leticia/Downloads/images.jpg)
 
 ### Bibliografia 
