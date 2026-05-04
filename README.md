@@ -38,3 +38,8 @@ Passo 3: Submissão
 
 Crie um repositório para as atividades da disciplina Introdução a Computação no GitHub.
 Envie o link do repositório através da plataforma indicada pela professora (conforme o cronograma de entrega da Unidade 2)
+
+# READ.me - Aula 10 
+### Breve descrição do trabalho
+  O repositório trata-se de uma pesquisa acerca dos elementos de rede, do contexto histórico e desenvolvimentista por meio da linha do tempo, contando com exemplificações realistas acerca do supracitado e classificação de rede, servindo de um resumo eficiente do conteúdo abordado.
+
