@@ -9,8 +9,7 @@ Compreender a evolução das redes de computadores, identificar seus elementos b
 Cada grupo deve incluir neste repositório:
 
 ### 1. Linha do Tempo
-- Representação dos principais marcos da evolução das redes (mainframes, ARPANET, TCP/IP, Internet comercial, redes móveis).
-- Pode ser em formato de imagem, PDF ou slides.
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/ea0ff6db-3759-4972-bb6a-e36c6a19d18f" />
 
 ### 2. Elementos da Rede
 - Esquema ilustrando os quatro elementos fundamentais:
