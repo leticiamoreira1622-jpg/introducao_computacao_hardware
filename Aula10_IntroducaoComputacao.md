@@ -12,30 +12,18 @@ Cada grupo deve incluir neste repositório:
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/ea0ff6db-3759-4972-bb6a-e36c6a19d18f" />
 
 ### 2. Elementos da Rede
-- Esquema ilustrando os quatro elementos fundamentais:
-  - **Emissor**
-  - **Receptor**
-  - **Meio de Transmissão**
-  - **Protocolo**
-- Exemplos práticos com dispositivos reais.
+## Tabela comparativa 
+| Elemento  | Conceito | Exemplo | 
+| --- | --- | --- | 
+| **Emissor** | Ponto de origem da comunicação. É a entidade ou dispositivo responsável pela geração e envio dos dados. É quem transforma a informação em sinais passíveis de transporte. | Notebook |
+| **Receptor** | O destinatário da mensagem. O receptor capta os sinais enviados por meio da transmissão e converte-os em informação útil para o usuário ou sistema. | Servidor Web |
+| **Meio de transmissão** | Caminho físico ou lógico, meio pelo qual a mensagem viaja do emissor até atingir o receptor. Dividios em Meios Guiados (Com fio) e Meios Não Guiados (Sem fio). | Cabo de fibra óptica |
+| **Protocolo** | Conjunto de regras e convenções que governa a comunicação, meio pelo qual o emissor e o receptor não se entenderiam, mesmo que estivessem conectados fisicamente. | HTTP/TCP/IP |
 
 ### 3. Classificação de Redes
-- Quadro comparativo ou mapa conceitual com exemplos reais:
-  - **PAN** – Bluetooth entre celular e fone de ouvido.
-  - **LAN** – Rede doméstica ou de laboratório.
-  - **MAN** – Rede de uma universidade ou prefeitura.
-  - **WAN** – Internet.
-
-## Organização dos Arquivos
-- Criar uma pasta com o nome do grupo (ex.: `Grupo1_Windows`, `Grupo2_Linux`).
-- Dentro da pasta, incluir:
-  - `linha_tempo.pdf` ou `linha_tempo.png`
-  - `elementos_rede.png` ou `elementos_rede.pdf`
-  - `classificacao_redes.pdf` ou `classificacao_redes.png`
-  - `README.md` com breve descrição do trabalho.
-
-##Livro ![Livro de Rede de computadores do Tanenbaum](https://archive.org/details/tanenbaum-rede-de-computadores-6a/mode/2up)
-
-![LIVRO](image_url)
-
----
+| Tipo | Sigla | Abrangência | Exemplo | Tecnologia |
+| --- | --- | --- | --- | --- |
+| Pessoal | PAN | Alguns metros, caracteriza o espaço pessoal | Fone de ouvido, bluetooth conectado ao celular | Bluetooth, NFC, Zigbee |
+| Local | LAN | Prédio, casa ou escritório, hotel | Wi-fi doméstico | Ethernet (Cabo), Wifi |
+| Metropolitana | MAN | Uma cidade ou campus | Rede que interliga órgãos estatais ou prédios universitários | Fibra Óptica, WiMAX |
+| Ampla | WAN | Países, continentes, mundo | A Internet ou a rede global de um banco | Satélite, Cabos Submarinos|
