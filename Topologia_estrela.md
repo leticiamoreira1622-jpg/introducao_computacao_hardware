@@ -34,3 +34,34 @@ O dispositivo central é inexistente. <br>
 ### **Hosts conectados** <br>
 Possuem várias interfaces de conexão. É a topologia base da Internet e das Redes Mesh Wi-Fi modernas, garantindo que a rede nunca caia completamente. <br>
 <img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/fc778e86-2736-48f0-b0a2-faecca8196f7" />
+## Tabela comparativa
+| | Função principal | Vantagens | Limitações | Exemplo |
+| --- | --- | --- | --- | --- |
+| **Hub** | Interconexão de computadores em uma rede local, não identifica o destinatário e, portanto, replica a informação para todas as portas | Extremamente barato e simples para uso | Gerador de muito tráfego desnecessários, colisão de dados e insegurança, uma vez que qualquer um na rede pode acessar o que os outros recebem. | Hub são raros atualmente, presentes apenas em museus de tecnologia e laboratórios específicos para análise de tráfego básico. |
+| **Switch** | Conexão de dispositivos em uma rede local (LAN) de maneira inteligente, armazena o endereço físico (MAC Address) de cada aparelho conectado a ele. | A entrega de informação é exclusiva ao destinatário, o que aumenta a velocidade e a segurança | Impossibilidade de conetar redes diferentes, apenas gerenciamento da conversa interna. | A rede de uma empresa, em que dezenas de computadores e impressoras trocam arquivos rapidamente de forma eficiente. |
+| **Roteador**| Escolha da melhor rota para os dados e interconexão de redes diferentes | Gerenciamento de endereços IP com farewall integrado que permite a tradução de endereços (NAT), possibilitando que vários aparelhos usem uma única conexão de internet. | Mais caro e complexo em relação à configuração. | Aparelho que a operadora instala em residências (roteador + switch + antena Wi-fi).|
+## Classificação
+### **Meios Guiados**
+**Par Trançado** <br>
+Comum em redes locais (LANs). Pares de fio de cobre entrelaçados para redução de interferência eletromagnética. <br>
+**Cabo Coaxial** <br>
+Condutor central de cobre cercado por material isolante e uma malha metálica, resistente a interferência. <br>
+**Fibra Óptica** <br>
+Transmissão de dados através de pulsos de luz em fios de plástico ou plástico, rápido e imune a interferências elétricas.
+### **Meios Não Guiados** 
+**Wi-fi** <br>
+Utiliza-se de radiofrequência para conexão de dispositivos em uma área local. <br>
+**Bluetooth** <br>
+Tecnologia de curto alcance com enfoque na conexão de periféricos e dispositivos pessoais (PAN). <br>
+**Satélite** <br>
+Utiliza-se de micro-ondas para cobrir distâncias globais, ideal para locais remotos. <br>
+**Infravermelho** <br>
+Requer linha de visão de visão direta e curto alcance. <br>
+Aqui está a tabela convertida para o formato Markdown:
+
+| Meio | Velocidade | Distância Máxima | Custo | Sensível a Interferência? |
+| :--- | :--- | :--- | :--- | :--- |
+| **Par Trançado** | Alta (até 10Gbps) | ~100 metros | Baixo | Sim |
+| **Fibra Óptica** | Altíssima (Tbps) | Quilômetros | Alto | Não |
+| **Wi-Fi** | Média/Alta | ~50 metros | Médio | Sim (paredes, outros sinais) |
+| **Satélite** | Média | Global | Muito Alto | Sim (clima/nuvens) |
