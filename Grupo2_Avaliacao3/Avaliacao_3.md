@@ -27,5 +27,5 @@ Agora, cada grupo deverá escolher uma **cartilha oficial** disponível no [CERT
  Phishing é uma maneira de atrair cliques para sites maliciosos por meio de links de hosts desconhecidos à vítima.
 
 2. **Produção do artefato criativo**
-  [Cartilha] (cartilha.pdf)  
+  [Cartilha](./cartilha.pdf)
  
