@@ -17,7 +17,9 @@ Comunicação clara e estruturada entre stakeholders e os trabalhadores do proje
 
 ## Aplicação prática no mercado 
 Engenharia e Construção na gestão de projetos de construção, aquisição e riscos estruturais. <br>
+
 Tecnologia da Informação e Desenvolvimento de software no que tange à projeção de requisitos de software, planejamento do próprio sistema e garantia da entrega esperada de um produto. <br>
+
 Marketing ao orquestrar equipes de forma harmoniosa, gerenciamento de engajamento e alinhamento com o pedido. <br>
 
 ---
